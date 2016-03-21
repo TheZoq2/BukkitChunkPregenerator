@@ -1,0 +1,5 @@
+name: Pregenerator
+main: org.galaxycraft.thezoq2.PregeneratorMain
+version: 0
+
+commands:
